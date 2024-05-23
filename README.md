@@ -20,7 +20,6 @@ Models: ResNet-50, ResNet-152, YOLOv5x, BERT
 
 Software: TVM/TensorFlow (Intel CPU), TensorRT (NVIDIA GPU), TFLite/MNN (SoC CPU/GPU/DSP)
 
-
 ### Video Transcoding
 
 We selected 6 video from [vbench](http://arcade.cs.columbia.edu/vbench/) in the video transcoding benchmark.
